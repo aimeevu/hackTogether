@@ -3,7 +3,7 @@
  * Copyright 2017 Mobirise
  */
 section {
-  background-color: #eeeeee; }
+  background-color: #F7F7F7; }
 
 section,
 .container,
@@ -26,6 +26,10 @@ a {
 
 figure {
   margin-bottom: 0; }
+
+html {
+  background-color: #F7F7F7;
+}
 
 body {
   color: #232323; }
